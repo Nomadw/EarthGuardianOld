@@ -1,0 +1,20 @@
+﻿Build started 05/02/2013 12:24:16.
+     1>Project "D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter\Sideshooter.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Sideshooter.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Sideshooter.unsuccessfulbuild".
+         Touching "Debug\Sideshooter.lastbuildstate".
+     1>Done Building Project "D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter\Sideshooter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

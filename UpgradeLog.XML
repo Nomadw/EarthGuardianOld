@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sideshooter">
+</Property><Property Name="Solution File" Value="D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter.sln">
+</Property><Property Name="User Options File" Value="D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter.suo">
+</Property><Property Name="Date" Value="28 January 2013">
+</Property><Property Name="Time" Value="21:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sideshooter.sln" Description="File successfully backed up as D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Sideshooter.suo" Description="File successfully backed up as D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter.suo.old">
+</Event><Event ErrorLevel="0" Project="Sideshooter" Source="Sideshooter\Sideshooter.vcproj" Description="Converting project file 'D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter\Sideshooter.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Sideshooter" Source="Sideshooter\Sideshooter.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Sideshooter" Source="Sideshooter\Sideshooter.vcproj" Description="Done converting to new project file 'D:\Documents\C++ projects\Allegro\Projects\Sideshooter - Copy\Sideshooter\Sideshooter.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Sideshooter" Source="Sideshooter\Sideshooter.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sideshooter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sideshooter.sln" Description="Converted">
+</Event></UpgradeLog>
